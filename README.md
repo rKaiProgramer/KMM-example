@@ -1,6 +1,23 @@
 # KMM-example
 example of a cross-platform mobile app with Kotlin Multiplatform Mobile (KMM).
 
+### KMM Folder Structure
+
+This is an example of the folder structure in a Kotlin Multiplatform Mobile (KMM) project.
+
+- **shared**: Contains shared code and resources.
+  - **src**: Shared Kotlin code.
+      - **commonMain**: Shared Kotlin code.
+        - **Platform.kt**: expect class Platform()
+        - **greeting.kt**: fun greeting(): String
+        - **Encryption.kt**: fun encryptAes(): String
+        - **Hanoi.kt**: fun setDiskNum(): Int, fun getTotalStepNum(): Int, fun getDiskDistribution(step: Int): Array<MutableList<Int>>
+      - **androidMain**
+        - **Platform.kt**: actual class Platform()
+      - **iosMain**
+        - **Platform.kt**: actual class Platform()
+
+
 Three examples on android(left) and iOS(right).
 ### Home
 <p float="left">
