@@ -50,7 +50,14 @@ Three examples on android(left) and iOS(right).
 
 
 ### 3.Hanoi tower
+<p float="left">
+  <img src="https://github.com/rKaiProgramer/KMM-example/blob/main/assets/screenshots/android_hanoi_tower.png" width="421" height="194"/>
+&nbsp;
+  <img src="https://github.com/rKaiProgramer/KMM-example/blob/main/assets/screenshots/ios_hanoi_tower.png" width="421" height="194"/>
+</p>
 
-  <img src="https://github.com/rKaiProgramer/KMM-example/blob/main/assets/screenshots/android_hanoi_tower.png" width="526" height="243"/>
-
-  <img src="https://github.com/rKaiProgramer/KMM-example/blob/main/assets/screenshots/ios_hanoi_tower.png" width="526" height="243"/>
+<p float="left">
+  <img src="https://github.com/rKaiProgramer/KMM-example/blob/main/assets/screenshots/android_hanoi_tower.gif" width="421" height="194"/>
+&nbsp;
+  <img src="https://github.com/rKaiProgramer/KMM-example/blob/main/assets/screenshots/ios_hanoi_tower.gif" width="421" height="194"/>
+</p>
